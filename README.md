@@ -10,18 +10,18 @@
         <img src="https://media.giphy.com/media/1H5tRrKQ44hWg/giphy.gif"
             align="right" width="250">
         <li>
-            <b height="80">花名:</b> 阿飞
+            <b height="80">Name:</b> afei
             </br>
         </li>
         <li>
-            <b height="80">岗位:</b> 测试工程师
+            <b height="80">Job:</b> SET
         </li>
         <li>
-            <b height="80">爱好:</b> 读书 旅游 游戏
+            <b height="80">Interests:</b> reading、travel、video games
         </li>
         <div>
             <li>
-                <b height="80">技能:</b>
+                <b height="80">Skills:</b>
                 <img valign="middle"
                     src="https://img.shields.io/badge/java%20-%23E34F26.svg?&style=flat&logo=java&logoColor=white" />
                 <img valign="middle"
@@ -35,7 +35,7 @@
             </li>
         </div>
         <li>
-           <b height="80">信仰:</b> 人性才是最大的Bug
+           <b height="80">Belief:</b> human nature is the biggest bug
         </li>
     </div>
      </br>
