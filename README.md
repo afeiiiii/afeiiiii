@@ -16,9 +16,9 @@
         <li>
             <b height="80">Job:</b> SET
         </li>
-        <li>
+         <!--  <li>
             <b height="80">Interests:</b> reading、travel、video games
-        </li>
+        </li> -->
         <div>
             <li>
                 <b height="80">Skills:</b>
